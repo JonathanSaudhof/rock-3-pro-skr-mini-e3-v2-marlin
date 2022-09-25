@@ -1,5 +1,10 @@
 # Marlin 3D Printer Firmware
 
+## Configured for SKR mini E3 v2 @Mingda Rock 3 Pro & BLTouch
+
+This is my attempt to run the Mingda Rock 3 Pro with a SKR mini E3 v2.0 mainboard.
+
+
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
 ![GitHub Release Date](https://img.shields.io/github/release-date/marlinfirmware/marlin.svg)
